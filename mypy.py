@@ -1,5 +1,5 @@
 
-def callulated():
+def calculated():
     pass
 
 
