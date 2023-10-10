@@ -1,3 +1,8 @@
+
+def callulated():
+    pass
+
+
 print("Write some think..")
 stuff = "U say: "
 word = f"{stuff} {input()}"
