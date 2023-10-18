@@ -3,7 +3,7 @@ def calculated():
     x = 42
     return x
 
-
+# new check tags
 print("Write some think..")
 stuff = "U say: "
 word = f"{stuff} {input()}"
