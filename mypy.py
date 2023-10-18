@@ -3,7 +3,6 @@ def calculated():
     x = 42
     return x
 
- 
 
 # new check tags and stuff
 print("Write some think..")
