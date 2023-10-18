@@ -4,6 +4,7 @@ def calculated():
     return x
 
 
+
 print("Write some think..")
 stuff = "U say: "
 word = f"{stuff} {input()}"
