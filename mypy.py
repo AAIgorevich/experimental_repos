@@ -4,6 +4,7 @@ def calculated():
     return x
 
 
+
 # new check tags and stuff
 print("Write some think..")
 stuff = "U say: "
