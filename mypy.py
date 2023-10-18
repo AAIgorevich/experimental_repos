@@ -3,6 +3,7 @@ def calculated():
     x = 42
     return x
 
+
 print("Write some think..")
 stuff = "U say: "
 word = f"{stuff} {input()}"
