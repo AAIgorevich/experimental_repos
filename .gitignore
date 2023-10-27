@@ -1,2 +1,4 @@
 launch.json
 settings.json
+.env.local
+docker-compose.yml
